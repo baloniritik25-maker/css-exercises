@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+     .first,
+     .sec,
+     .thir
+      {
+        background: rgb(240, 172, 183);
+        font-family:Verdana, DejaVu Sans, sans-serif;
+      }
+       #son
+      {
+        color: blue;
+        font-size: 36px;
+      }
+      .sec.god
+      {
+        font-size: 24px;
+      }
+
+      div.num-4
+      {
+        color: hsla(99, 87%, 46%, 0.96);
+        font-size: 24px;
+        font-weight: bold;
+      }
